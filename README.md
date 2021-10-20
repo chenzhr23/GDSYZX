@@ -3,7 +3,7 @@
 
 Currently, qtWGCNA (v 1.0) is under its first version development. As showed in the below figure, the framework of qtWGCNA relies on a Qt-based fore-end and the back-end python script of iterativeWGCNA [1].
 <p style="text-align: center">
-![alt text](https://2021.igem.org/wiki/images/5/58/T--GDSYZX--qtWGCNA.png)
+  <img src="https://2021.igem.org/wiki/images/5/58/T--GDSYZX--qtWGCNA.png" width="900px"  alt="" />
   </p>
 
 <h2>1. Quick Start</h2>
