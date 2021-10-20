@@ -14,10 +14,10 @@ Currently, qtWGCNA (v 1.0) is under its first version development. As showed in 
   </p>
 
   After WSL or server deployment, qtWGCNA required miniconda environment to install iterativeWGCNA by running commandline 'conda install -c conda-forge iterativewgcna' (https://anaconda.org/conda-forge/iterativewgcna). More information about how to install Miniconda, please click me.
-  Finally, by uoload the gene expression file (file format info) with 'browse' button and set required parameters, we are able to run iterativeWGCNA at the back-end and wait for the processing to be done!
+  Finally, by uoload the gene expression file (<a href="https://github.com/cstoeckert/iterativeWGCNA/blob/master/README.md#input-file-format" target="_blank"><u>file format info</u></a>) with 'browse' button and set required parameters, we are able to run iterativeWGCNA at the back-end and wait for the processing to be done!
   
 <h2>2. Interface Options</h2>
-  Currently, qtWGCNA is now allowed to accept all arguments of valid for the WGCNA blockwiseModules R function (blockwiseModules help document). More information about the customized parameters, e.g. soft power or network type, please refer to WGCNA parameters.
+  Currently, qtWGCNA is now allowed to accept all arguments of valid for the WGCNA blockwiseModules R function (<a href="https://www.rdocumentation.org/packages/WGCNA/versions/1.70-3/topics/blockwiseModules" target="_blank"><u>blockwiseModules help document</u></a>). More information about the customized parameters, e.g. soft power or network type, please refer to WGCNA parameters.
 
 <h2>3. Results and logs</h2>
 A main text and log result of qtWGCNA was showed as below, which indicates how much connected of all the co-expressed genes in well-divided WGCNA modules.
