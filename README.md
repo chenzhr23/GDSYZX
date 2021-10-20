@@ -9,7 +9,9 @@ Currently, qtWGCNA (v 1.0) is under its first version development. As showed in 
 <h2>1. Quick Start</h2>
   qtWGCNA is developed as an interface of iterativeWGCNA python script, to run qtWGCNA, we can use WSL of Windows 10 (can be downloaded and installed from Microsoft store) or run command './qtWGCNA' on a linux server terminal. We recommend downloading WSL from Microsoft store in Win 10 system because it is more light weight and no requirement for complicated coding skills.
 
-![alt text](https://2021.igem.org/wiki/images/4/45/T--GDSYZX--WSL.png)
+  <p style="text-align: center">
+  <img src="https://2021.igem.org/wiki/images/4/45/T--GDSYZX--WSL.png" width="900px"  alt="" />
+  </p>
 
   After WSL or server deployment, qtWGCNA required miniconda environment to install iterativeWGCNA by running commandline 'conda install -c conda-forge iterativewgcna' (https://anaconda.org/conda-forge/iterativewgcna). More information about how to install Miniconda, please click me.
   Finally, by uoload the gene expression file (file format info) with 'browse' button and set required parameters, we are able to run iterativeWGCNA at the back-end and wait for the processing to be done!
@@ -19,8 +21,12 @@ Currently, qtWGCNA (v 1.0) is under its first version development. As showed in 
 
 <h2>3. Results and logs</h2>
 A main text and log result of qtWGCNA was showed as below, which indicates how much connected of all the co-expressed genes in well-divided WGCNA modules.
-  ![alt text](https://2021.igem.org/wiki/images/4/40/T--GDSYZX--software-fig3.png)
-  ![alt text](https://2021.igem.org/wiki/images/5/54/T--GDSYZX--software-fig4.png)
+  <p style="text-align: center">
+  <img src="https://2021.igem.org/wiki/images/4/40/T--GDSYZX--software-fig3.png" width="900px"  alt="" />
+  </p>
+   <p style="text-align: center">
+  <img src="https://2021.igem.org/wiki/images/5/54/T--GDSYZX--software-fig4.png" width="900px"  alt="" />
+  </p>
   
 A main figure result of qtWGCNA was showed as below, which indicates how many genes are jointly co-expressed.
   ![alt text](https://2021.igem.org/wiki/images/0/0f/T--GDSYZX--software-video-fig2.png)
