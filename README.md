@@ -1,5 +1,7 @@
 # GDSYZX
-qtWGCNA
+qtWGCNA: A <u>Qt</u> compiled interface for <u>WGCNA</u> analyses
+
+![alt text](https://2021.igem.org/wiki/images/5/58/T--GDSYZX--qtWGCNA.png)
 
 Currently, qtWGCNA (v 1.0) is under its first version development. As showed in the below figure, the framework of qtWGCNA relies on a Qt-based fore-end and the back-end python script of iterativeWGCNA [1].
 
