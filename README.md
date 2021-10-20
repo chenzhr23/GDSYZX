@@ -33,7 +33,7 @@ A main figure result of qtWGCNA was showed as below, which indicates how many ge
   <p>More information about the output files, please refer to <a href="https://github.com/cstoeckert/iterativeWGCNA/blob/master/README.md#output-files" target="_blank"><u>iterativeWGCNA output files</u></a></p>
   
  <h2>4. Source Code</h2>
-  The source code of qtWGCNA can be compiled by Qt creator.
+  The source code of qtWGCNA can be compiled by Qt creator. It is also available in our wiki page: https://2021.igem.org/Team:GDSYZX/Software#section4
   <p style="text-align: center">
   <img src="https://2021.igem.org/wiki/images/e/e2/T--GDSYZX--qtcreator.png" width="900px"  alt="" />
   </p>
