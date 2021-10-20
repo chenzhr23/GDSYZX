@@ -28,7 +28,9 @@ A main figure result of qtWGCNA was showed as below, which indicates how many ge
   
  <h2>4. Source Code</h2>
   The source code of qtWGCNA can be compiled by Qt creator.
-  ![alt text](https://2021.igem.org/wiki/images/e/e2/T--GDSYZX--qtcreator.png)
+  <p style="text-align: center">
+  <img src="https://2021.igem.org/wiki/images/e/e2/T--GDSYZX--qtcreator.png" width="900px"  alt="" />
+  </p>
   
 
 [1] iterativeWGCNA: iterative refinement to improve module detection from WGCNA co-expression networks Emily Greenfest-Allen, Jean-Philippe Cartailler, Mark A. Magnuson, Christian J. Stoeckert Jr. bioRxiv 234062; doi: https://doi.org/10.1101/234062.
