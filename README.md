@@ -23,7 +23,7 @@ A main text and log result of qtWGCNA was showed as below, which indicates how m
   
 A main figure result of qtWGCNA was showed as below, which indicates how many genes are jointly co-expressed.
   ![alt text](https://2021.igem.org/wiki/images/0/0f/T--GDSYZX--software-video-fig2.png)
-  More information about the output files, please refer to <a href="https://github.com/cstoeckert/iterativeWGCNA/blob/master/README.md#output-files" target="_blank"><u>iterativeWGCNA output files</u></a>
+  <p>More information about the output files, please refer to <a href="https://github.com/cstoeckert/iterativeWGCNA/blob/master/README.md#output-files" target="_blank"><u>iterativeWGCNA output files</u></a></p>
   
  <h2>4. Source Code</h2>
   The source code of qtWGCNA can be compiled by Qt creator.
