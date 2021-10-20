@@ -13,7 +13,7 @@ Currently, qtWGCNA (v 1.0) is under its first version development. As showed in 
   <img src="https://2021.igem.org/wiki/images/4/45/T--GDSYZX--WSL.png" width="900px"  alt="" />
   </p>
 
-  After WSL or server deployment, qtWGCNA required miniconda environment to install iterativeWGCNA by running commandline 'conda install -c conda-forge iterativewgcna' (https://anaconda.org/conda-forge/iterativewgcna). More information about how to install Miniconda, please click me.
+  After WSL or server deployment, qtWGCNA required miniconda environment to install iterativeWGCNA by running commandline 'conda install -c conda-forge iterativewgcna' (https://anaconda.org/conda-forge/iterativewgcna). More information about how to install Miniconda, <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank"><u>please click me.</u></a>.
   Finally, by uoload the gene expression file (<a href="https://github.com/cstoeckert/iterativeWGCNA/blob/master/README.md#input-file-format" target="_blank"><u>file format info</u></a>) with 'browse' button and set required parameters, we are able to run iterativeWGCNA at the back-end and wait for the processing to be done!
   
 <h2>2. Interface Options</h2>
