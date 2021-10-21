@@ -7,7 +7,7 @@ Currently, qtWGCNA (v 1.0) is under its first version development. As showed in 
   </p>
 
 <h2>1. Quick Start</h2>
-  qtWGCNA is developed as an interface of iterativeWGCNA python script, to run qtWGCNA, we can use WSL of Windows 10 (can be downloaded and installed from Microsoft store) or run command './qtWGCNA' (in <stong>'build-qtWGCNA-Desktop-Release'</stong>) on a linux server terminal. We recommend downloading WSL from Microsoft store in Win 10 system because it is more light weight and no requirement for complicated coding skills.
+  qtWGCNA is developed as an interface of iterativeWGCNA python script, to run qtWGCNA, we can use WSL of Windows 10 (can be downloaded and installed from Microsoft store) or run command './qtWGCNA' (in <stong>build-qtWGCNA-Desktop-Release</stong>) on a linux server terminal. We recommend downloading WSL from Microsoft store in Win 10 system because it is more light weight and no requirement for complicated coding skills.
 
   <p style="text-align: center">
   <img src="https://2021.igem.org/wiki/images/4/45/T--GDSYZX--WSL.png" width="900px"  alt="" />
