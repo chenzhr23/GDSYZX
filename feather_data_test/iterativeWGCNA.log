@@ -1,0 +1,29 @@
+INFO: Mon 18 Oct 2021 04:01:44 PM CST
+INFO: Working directory: /public/home/chenzr/software/iterativeWGCNA/GDSYZX
+INFO: Saving blocks for each iteration? TRUE
+INFO: Merging final modules if cutHeight <= 0.05
+INFO: Allowing WGCNA Threads? FALSE
+INFO: Running WGCNA with the following params:
+INFO: {'numericLabels': True, 'networkType': 'signed', 'minKMEtoStay': 0.8, 'minCoreKME': 0.8, 'minModuleSize': 20, 'reassignThreshold': 0.05, 'power': 6, 'saveTOMs': False}
+INFO: Loaded file: /public/home/chenzr/software/iterativeWGCNA/GDSYZX/feather.txt
+INFO: 4 Samples
+INFO: 5360 Genes
+INFO: Pass 1 converged on iteration 12.
+INFO: FIT: 3549; RESIDUAL: 1811
+INFO: Pass 2 converged on iteration 9.
+INFO: FIT: 1699; RESIDUAL: 112
+INFO: Pass 3 converged on iteration 2.
+INFO: FIT: 77; RESIDUAL: 35
+INFO: No modules detected for iteration P4_I1. Classification complete.
+INFO: Pass 4 converged on iteration 2.
+INFO: FIT: 0; RESIDUAL: 35
+INFO: FIT: 5325; RESIDUAL: 35
+INFO: Found 20 modules.
+INFO: ['P1_I12_M1', 'P2_I9_M5', 'P2_I9_M9', 'P2_I9_M6', 'P1_I12_M2', 'P2_I9_M7', 'P2_I9_M3', 'P2_I9_M2', 'P2_I9_M4', 'P2_I9_M12', 'P2_I9_M8', 'P2_I9_M15', 'P2_I9_M13', 'P3_I2_M3', 'P2_I9_M14', 'P3_I2_M2', 'P2_I9_M1', 'P2_I9_M11', 'P2_I9_M10', 'P3_I2_M1']
+INFO: Merging P3_I2_M3 into P2_I9_M15 (D = 0.034770003847629516)
+INFO: Done merging close modules: 1 modules merged.
+INFO: Retained 19 modules after merge.
+INFO: Reassigned 191 genes in final kME review.
+INFO: FIT: 5359; RESIDUAL: 1
+INFO: iterativeWGCNA: SUCCESS
+INFO: Mon 18 Oct 2021 04:27:51 PM CST
